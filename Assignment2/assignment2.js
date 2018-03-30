@@ -1,12 +1,3 @@
-/*********************************************************************************
-*  WEB222 – Assignment 02
-*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  
-*  No part of this assignment has been copied manually or electronically from any other source
-*  (including web sites) or distributed to other students.
-* 
-*  Name: Namra Rupesh Fanse Student ID: 112219175 Date: 15/2/2018
-*
-******************************************************************************
 
 var allData = [
     {type:"store", data:{store_id: 297, name: "Scotiabank - Main Branch", address_id: 1023}},
@@ -175,29 +166,7 @@ getStoreById: function(store_id){
 
 };
 
- /*  Write your CustomerDB Object Here.  Do not forget to uncomment the "TEST DATA" section
-     when you're ready.  Your code is required to run against these tests before you submit */
-
-
-
-
-/**********************************
- *          TEST DATA             *
- *  write your CustomerDB Object  *
- *      ABOVE this code           *
- *                                *
- *  Uncomment this block of code  *
- *  when you're ready to test     *
- *  your CustomerDB Object        *
- *                                *
- *  You MUST Hand in your code    *
- *  with the test data            *
- *  uncommented, as this will     *
- *  help check your code for      *
- *  correctness                   *
- **********************************/
-
-
+//TEST DATA
 
 // Insert all Data into the Database
 
