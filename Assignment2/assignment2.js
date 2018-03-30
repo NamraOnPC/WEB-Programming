@@ -216,18 +216,3 @@ console.log("--------------------------\n\n");
 console.log("CustomerDB.outputAllAddresses();\n\n--------------------------\n\n");
 CustomerDB.outputAllAddresses();
 console.log("--------------------------\n\n"); 
-
-/*
-Exception: ReferenceError: newArray is not defined
-removeAddressById@Scratchpad/3:150:17
-removeCustomerById@Scratchpad/3:112:13
-@Scratchpad/3:235:1
-*/
-/*
-Exception: SyntaxError: function statement requires a name
-@Scratchpad/3:126
-*/
-/*
-Exception: SyntaxError: missing ) after argument list
-@Scratchpad/3:112
-*/
