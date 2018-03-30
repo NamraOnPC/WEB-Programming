@@ -6,13 +6,7 @@
 * 
 *  Name: Namra Rupesh Fanse Student ID: 112219175 Date: 15/2/2018
 *
-********************************************************************************/ 
-
-/**********************************
- *          ALL DATA              *
- *  write your CustomerDB Object  *
- *      BELOW this Object         *
- **********************************/
+******************************************************************************
 
 var allData = [
     {type:"store", data:{store_id: 297, name: "Scotiabank - Main Branch", address_id: 1023}},
