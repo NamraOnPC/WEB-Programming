@@ -1,15 +1,3 @@
-/*********************************************************************************
-* WEB222 -Assignment 01
-* I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part of 
-* this assignment has been copied manually or electronically from any othersource (including web sites) 
-* or distributed to other students.
-*
-* Name: Namra Rupesh Fanse Student ID: 112219175 Date: 18/01/2018
-*
-********************************************************************************/
-
-
-
 
 /*****************************
  Task 1
