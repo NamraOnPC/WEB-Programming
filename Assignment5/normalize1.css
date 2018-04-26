@@ -1,0 +1,208 @@
+body{
+
+    background-color: antiquewhite;
+
+}
+
+header{
+
+    padding: 10px;
+
+    background-color: bisque;
+
+    border-bottom: 1px solid #cccccc;
+
+    margin-bottom: 30px;
+}
+
+header h1{
+
+    font-size: 40px;
+
+    font-family: 'Times New Roman', Times, serif;
+
+    font-weight: bold;
+
+    color: brown;
+
+    font-style: italic;
+
+    text-indent: 50px;
+
+    text-align: center;
+
+}
+
+section {
+
+    width: 400px;
+
+    padding: 10px;
+
+    float: left;
+
+    background-color: beige;
+
+    border-radius: 3px;
+
+    margin-left: 10px;
+
+    margin-bottom: 20px;
+
+    border: 1px solid black;
+
+
+
+}
+
+
+section h3{
+
+    text-align: center;
+
+    font-family: Courier New, Courier, monospace;
+
+}
+
+section p{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+nav {
+
+    width: 200px;
+
+    float: left;
+
+    height: 315px;
+
+    margin-bottom: 20px;
+
+    border-radius: 3px;
+
+    padding: 20px;
+
+
+}
+
+nav ul li {
+
+    list-style-type: circle;
+
+    padding: 10px;
+
+    font-size: 25px;
+
+    border-bottom: 1px solid;
+
+}
+
+nav ul li a{
+
+    text-decoration: none;
+
+}
+
+nav ul li a:hover{
+
+    color: green;
+
+}
+
+.side {
+
+   border-radius: 3px;
+
+   width: 250px;
+
+   float: left;
+
+   padding: 20px;
+
+   height: 320px;
+
+   margin-bottom: 20px;
+
+   border: 1px solid black;
+
+}
+
+.side p{
+
+    font-size: 15px;
+
+    font-style: italic;
+
+    font-weight: bold;
+
+}
+
+footer{
+
+    clear:both;
+
+    padding: 20px;
+
+    background-color: bisque;
+
+    font-size: 20px;
+
+    text-align: left;
+
+    border-top: 2px;
+
+
+
+}
+
+#form {
+
+    padding: 10px;
+
+    border: 2px dotted black;
+
+}
+
+input[type=text], input[type=password],input[type=email]{
+
+    width: 100%;
+
+    padding: 10px 20px;
+
+    margin: 8px 0;
+
+    box-sizing: border-box;
+
+}
+
+select{
+
+    width: 100%;
+
+    padding: 10px 20px;
+
+    margin: 8px 0;
+
+    box-sizing: border-box;
+
+    font-size: 15px;
+
+}
+
+select:focus{
+
+    background-color: antiquewhite;
+
+}
+
+input[type=button], input[type=submit], input[type=reset]{
+
+    background-color: antiquewhite;
+
+    padding: 15px 30px;
+
+    margin: 4px 2px;
+
+}
