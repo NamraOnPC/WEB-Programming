@@ -1,0 +1,76 @@
+/* Place all of your CSS Code in this file */
+
+/********************************************************************************* 
+*
+* WEB222 – Assignment #4a
+*
+* I declare that this assignment is my own work in accordance with Seneca 
+* Academic Policy. No part of this assignment has been copied manually or 
+* electronically from any other source (including web sites) or distributed to 
+* other students. 
+* 
+* Name: Namra Rupesh Fanse Student ID: 112219175 Date: 20/3/2018
+* 
+********************************************************************************/
+
+
+body {
+
+    color: indianred;
+
+}
+
+nav , footer {
+
+    background-color: indianred;
+
+}
+
+header {
+
+    color: indianred;  
+    padding: 6px;
+
+}
+
+.app-title{
+    
+    font-family: 'Times New Roman', 'Serif';
+    font-style: italic;
+    font-size: 40px;
+
+}
+
+.main-table-container{
+   
+    max-height: 100vh;
+    overflow: scroll;
+    margin: 0px;
+}
+
+.main-table-top{
+    margin: 10px;
+    font-size: 20px;
+}
+
+.main-table-top th{
+
+    font-size: 20px;
+    border-bottom: 20px;
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid;
+}
+
+.main-table td{
+
+    padding: 10px;
+    border-bottom: 1px solid;
+    font-size: 20px;
+    color: indianred;
+}
+
+.main-table p span{
+    color: palevioletred;
+    font-size: 25px;
+}
